@@ -9,7 +9,7 @@
 //	Project Name			:		All Linked List
 //	Designed By			    :		Pranavi Ghanshyam Baraskar
 //	Written in			    :		C++ Programming Language
-//	Date of Creation		:		22th August 2025
+//	Date of Creation		:		22th june 2026
 //	Influenced by			:		SLLL.h, ,SCLL.h, DLLL.h, DCLL.h
 //	Implementations		    :		C & C++ Programming Language
 //	Operating System		:		Cross-Platform
